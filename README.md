@@ -1,4 +1,4 @@
-# Wolt Internship Assigment - Backend
+# Internship Assigment - Backend
 
 ## Overview
 
@@ -6,7 +6,7 @@ The Delivery Fee Calculator is a Flask-based application designed to calculate d
 
 ## Table of Contents
 
-- [Wolt Internship Assigment - Backend](#wolt-internship-assigment---backend)
+- [Internship Assigment - Backend](#internship-assigment---backend)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Project Structure](#project-structure)
